@@ -1,0 +1,63 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color:#b1ff72;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.3rem;
+}
+.navbar{
+    background-color: lawngreen;
+}
+
+.my-picture{
+    text-align: center;
+}
+img{
+    width: 80%;
+    height: 150px;
+    padding-top: 5px;
+    justify-content: center;
+    align-content: center;
+}
+.profile-pic{
+    display: flex;
+     justify-content:center;
+     align-items: center;
+}
+.pill{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+      
+}
+.img-container{
+    display: flex;
+    height: 100%;
+    flex-wrap: wrap;
+    align-content: flex-start;
+}
+.img-container>div {
+    max-width: 400px;
+    margin: auto;
+}   
+img {
+    width: 100%;
+    height:100%;
+    margin: 5px;
+    padding: 5px;
+    border: 2px;
+
+}
+.image-resize{
+    height: 300px;
+    box-sizing: border-box;
+    background-color: white;
+   
+}
+.image-resize-2{
+    height: 300px;
+    border-radius: 50%;
+    box-sizing: border-box;
+    background-color: white;    
+}
+
