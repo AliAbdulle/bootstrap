@@ -5,6 +5,10 @@ body{
     font-family: 'Montserrat', sans-serif;
     font-size: 1.3rem;
 }
+.container{
+    height: 100%;
+    position: relative;
+}
 .navbar{
     background-color: lawngreen;
 }
@@ -64,4 +68,35 @@ img {
     box-sizing: border-box;
     background-color: white;    
 }
+.slide{
+    height: 20%;
+    position: relative;
+
+}
+footer{
+    height: 1%;
+    background-color: black;
+    text-align: center;
+    padding: 0;
+}
+p{
+    color: white;
+}
+.life-style {
+    background: silver;
+}
+.life-style p{
+    color: black;
+}
+h2{
+    text-align: center;
+}
+li{
+    list-style: none;
+    text-align: center;
+}
+.center{
+    text-align: center;
+}
+
 
