@@ -107,8 +107,14 @@ input{
     width: 300px;
 }
 textarea{
-    height: 200px;
+    height: 200px;  
     width: 300px;
+}
+h3{
+    text-align: center;
+}
+div p{
+    color: black;
 }
 
 
