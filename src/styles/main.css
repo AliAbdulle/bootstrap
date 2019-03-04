@@ -98,5 +98,17 @@ li{
 .center{
     text-align: center;
 }
+.contact-form{
+    text-align: center;
+    padding: 20px;
+}
+input{
+    height: 50px;
+    width: 300px;
+}
+textarea{
+    height: 200px;
+    width: 300px;
+}
 
 
